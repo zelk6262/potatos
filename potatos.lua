@@ -1,3 +1,5 @@
+-- potatos by zelk and oopy
+
 -- Destroy any existing Rayfield UI
 if game.CoreGui:FindFirstChild("Rayfield") then
     game.CoreGui:FindFirstChild("Rayfield"):Destroy()
