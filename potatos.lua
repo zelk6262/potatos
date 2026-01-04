@@ -30,7 +30,7 @@ local Window =
             Invite = "noinvitelink",
             RememberJoins = true
         },
-        KeySystem = true,
+        KeySystem = false,
         KeySettings = {
             Title = "potatos",
             Subtitle = "key system",
